@@ -155,7 +155,7 @@ const App: React.FC = () => {
               <Shield className="text-[#00ff41] w-6 h-6" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-white font-mono-custom tracking-tight">ROSHANKUMAR <span className="text-[#00ff41]">PATEL</span></h1>
+              <h1 className="text-xl font-bold text-white font-mono-custom tracking-tight">ROSHAN <span className="text-[#00ff41]">PATEL</span></h1>
               <p className="text-[10px] text-green-500/70 font-mono-custom uppercase tracking-widest">Security Analyst | Cybersecurity Professional</p>
             </div>
           </div>
@@ -205,7 +205,7 @@ const App: React.FC = () => {
             </div>
             <div className="p-6 min-h-[320px] bg-[#050505]">
               <TerminalLine type="cmd" text="whoami" delay={500} />
-              <TerminalLine type="info" text="Name: Roshankumar Patel" delay={1000} />
+              <TerminalLine type="info" text="Name: Roshan Patel" delay={1000} />
               <TerminalLine type="info" text="Focus: Information Security & Threat Analysis" delay={1200} />
               <TerminalLine type="info" text="Status: Active Operations @ Northland Properties" delay={1400} />
               
@@ -338,7 +338,7 @@ const App: React.FC = () => {
                   <Mail size={18} className="text-green-500" />
                   <div className="overflow-hidden">
                     <p className="text-[10px] text-slate-500 uppercase font-mono-custom tracking-wider">Email</p>
-                    <p className="text-sm font-medium text-slate-300 group-hover:text-white truncate">patelroshan5349@gmail.com</p>
+                    <p className="text-sm font-medium text-slate-300 group-hover:text-white truncate">thecyberpatel@gmail.com</p>
                   </div>
                 </a>
                 <a href="https://linkedin.com/in/roshankumar-patel" target="_blank" className="flex items-center gap-4 p-4 bg-black/40 border border-white/5 rounded-xl hover:border-[#0077b5]/50 hover:bg-black transition-all group">
@@ -383,7 +383,7 @@ const App: React.FC = () => {
       <footer className="border-t border-white/5 mt-20 bg-black/50 py-12 px-6">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="text-center md:text-left">
-            <h5 className="font-mono-custom text-white font-bold text-lg mb-2 tracking-tight">ROSHANKUMAR <span className="text-green-500">PATEL</span></h5>
+            <h5 className="font-mono-custom text-white font-bold text-lg mb-2 tracking-tight">ROSHAN <span className="text-green-500">PATEL</span></h5>
             <p className="text-xs text-slate-500 max-w-sm">
               Defending digital frontiers through SIEM optimization, advanced threat hunting, and strategic risk mitigation.
             </p>
@@ -404,7 +404,7 @@ const App: React.FC = () => {
           </div>
         </div>
         <div className="max-w-6xl mx-auto mt-12 text-center text-[10px] font-mono-custom text-slate-700 tracking-[0.2em] uppercase">
-          &copy; 2025 ROSHANKUMAR PATEL // SECURITY OPERATIONS CENTER PORTFOLIO
+          &copy; 2025 ROSHAN PATEL // SECURITY OPERATIONS CENTER PORTFOLIO
         </div>
       </footer>
 
